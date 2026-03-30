@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-58nv1osf02p3q3u0=xn394@@vokuju3du8#30%y_zfnn4&4xt8
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['jazz12345.pythonanywhere.com']
 
 # Application definition
 
